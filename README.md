@@ -1,2 +1,3 @@
 # go-open-heightmap
-Heightmap generation using erosion in go with opencl
+Heightmap generation using erosion in go with gpu acceleration
+
